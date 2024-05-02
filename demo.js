@@ -10,6 +10,7 @@ function generateName() {
     " my bestie Uriel",
     "my bestie Rene",
     "my bestie Kadi",
+    "My bestie Remsey"
   ];
 
   // Randomly select a question
